@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Madanes App</string>
+    <string name="user_id">ת\"ז (אנא להכניס 9 ספרות)</string>
+    <string name="hint_sms">טלפון נייד</string>
+    <string name="identification">כניסת משתמש</string>
+    <string name="hint_email">מייל</string>
+    <string name="we_send_you_term_code_to_identification">לקבלת סיסמה חד פעמית לטלפון הנייד או למייל, הזן את הפרטים הבאים.</string>
+    <string name="hint_code">הכנס קוד</string>
+    <string name="greeting" formatted="false">שלום %s!</string>
+    <string name="content_description_icon">icon</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_code_to">ברצוני לקבל את קוד הכניסה ל-</string>
+    <string name="call_to_support">היי,\nשמנו לב שנתקלת\nבקצת בעיות בכניסה.\nנציג שלנו ישמח לעזור.</string>
+    <string name="speak_with_support">דבר עם נציג</string>
+</resources>

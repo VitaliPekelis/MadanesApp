@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#486893</color>
+    <color name="colorPrimaryDark">#163e65</color>
+    <color name="colorPrimaryLight">#7796c4</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorControlActivated">@color/colorPrimary</color>
+    <color name="colorControlNormal">#818386</color>
+
+    <color name="textColorPrimary">#3d3d3d</color>
+
+
+
+
+    <color name="textColorTitle">#103a72</color>
+    <color name="textColor">#486893</color>
+
+</resources>
